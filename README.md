@@ -1,4 +1,4 @@
-# Image-Processing-Project
+# eurosat-bigearthnet-transfer
 
 Transfer learning from **BigEarthNet v2.0 (reBEN)** pretrained models onto the multi-spectral **EuroSAT** satellite image dataset.
 
